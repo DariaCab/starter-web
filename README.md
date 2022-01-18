@@ -10,3 +10,4 @@ Adding a line for rebasing example
 ##How To Contribute
 
 ##Copyright
+Adding line for Stashing example
