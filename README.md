@@ -8,3 +8,5 @@ This is a simple website project for showing  how to use Git and GitHub together
 ##Deployment
 
 ##How To Contribute
+
+##Copyright
